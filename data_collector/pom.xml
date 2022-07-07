@@ -10,7 +10,7 @@
 
     <properties>
         <json.version>20180130</json.version>
-        <jetty.version>9.4.6.v20170531</jetty.version>
+        <jetty.version>10.0.10</jetty.version>
         <jersey.version>2.27</jersey.version>
         <hystrix.version>1.5.18</hystrix.version>
         <prometheus.version>0.1.0</prometheus.version>
